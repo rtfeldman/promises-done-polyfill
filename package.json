@@ -1,0 +1,23 @@
+{
+  "name": "promises-done-polyfill",
+  "version": "1.0.0",
+  "description": "Polyfills Promise.done()",
+  "main": "promises-done-polyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtfeldman/promises-done-polyfill.git"
+  },
+  "keywords": [
+    "promises",
+    "done"
+  ],
+  "author": "Richard Feldman",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/rtfeldman/promises-done-polyfill/issues"
+  },
+  "homepage": "https://github.com/rtfeldman/promises-done-polyfill"
+}

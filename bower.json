@@ -1,0 +1,22 @@
+{
+  "name": "promises-done-polyfill",
+  "main": "promises-done-polyfill.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rtfeldman/promises-done-polyfill",
+  "authors": [
+    "Richard Feldman <richard.t.feldman@gmail.com>"
+  ],
+  "description": "Polyfills Promise.done()",
+  "keywords": [
+    "promises",
+    "done"
+  ],
+  "license": "Apache2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
